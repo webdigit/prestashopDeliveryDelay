@@ -3,7 +3,7 @@
 	<name>webdigitdeliverydelay</name>
 	<displayName><![CDATA[Delivery Delay]]></displayName>
 	<version><![CDATA[1.0.0]]></version>
-	<description><![CDATA[Give possibility to set a simple information about delivery delay to a specific product]]></description>
+	<description><![CDATA[Display delivery delay on product]]></description>
 	<author><![CDATA[WEBDIGIT sprl]]></author>
 	<tab><![CDATA[front_office_features]]></tab>
 	<confirmUninstall><![CDATA[Are you sure you want to uninstall ?]]></confirmUninstall>
